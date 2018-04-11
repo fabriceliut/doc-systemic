@@ -1,2 +1,8 @@
-# doc-systemic
-Recherche autour de la pensée systémique.
+---
+description: Autour de la pensée systémique.
+---
+
+# La pensée systémique
+
+Open recherche.
+
